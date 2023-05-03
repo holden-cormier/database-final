@@ -63,7 +63,7 @@ npm run dev
 
 - This should start the application on [localhost:5173](http://localhost:5173). A link will be displayed in the terminal - click it using `ctrl/cmd` + `click`
 
-- ***Common Error***: *I used [Vite](https://v3.vitejs.dev/guide/) instead of `create-react-app` (Vite is a better, faster version of CRA). Unless you have vite installed on your computer, it will not build. You can install Vite using:
+- ***Common Error***: *I used [Vite](https://v3.vitejs.dev/guide/) instead of `create-react-app` (Vite is a better, faster version of CRA). Unless you have vite installed on your computer, it will not build. You can install Vite using:*
 
   ```bash
   npm install vite@latest
