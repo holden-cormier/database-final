@@ -63,3 +63,8 @@ INNER JOIN projects p ON i.project_repo = p.github_repo
 WHERE p.proj_name = 'market';
 
 
+-- info of people assigned to an issue
+SELECT mem.email, mem.project_repo
+FROM gen_member mem
+JOIN issue i ON mem.email = i.mem_email AND mem.project_repo = i.project_repo;
+
