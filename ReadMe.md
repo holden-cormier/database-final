@@ -68,4 +68,4 @@ npm run dev
   ```bash
   npm install vite@latest
   ```
-- Use the link above to reference the Vite docs, and feel free to reach out to me at my email with any questions.
+- Use the link above to reference the Vite docs, and feel free to reach out to me at my email with any questions. (Preston)
