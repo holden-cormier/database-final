@@ -69,3 +69,5 @@ npm run dev
   npm install vite@latest
   ```
 - Use the link above to reference the Vite docs, and feel free to reach out to me at my email with any questions. (Preston)
+
+***NOTE:*** *I have no error handling enabled right now so if you delete a member when that member is referenced in another table - in other words, you delete a key, it will throw an error and break the program. If this happens, you will have to restart the server and refresh the frontend. I will add the error handling for the finished product.*
